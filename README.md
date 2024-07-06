@@ -48,5 +48,5 @@ A4: The scaling_factor adjusts the range of the progress bar animation based on 
 
 **Feel free to contribute to this project by reporting issues or suggesting improvements!**
 
-## Suport
-# Interested in supporting me? [Patreon](patreon.com/msaeed)
+## Support
+**Interested in supporting me? [Patreon](patreon.com/msaeed) **
