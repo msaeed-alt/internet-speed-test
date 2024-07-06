@@ -29,10 +29,10 @@ The Internet Speed Checker is a Python application that measures your internet s
 - **GUI Setup**: Configures the GUI elements like labels, progress bars, and buttons.
 - **Main Loop**: Starts the GUI application.
 
-Conclusion
+## Conclusion
 The Internet Speed Checker provides a simple yet effective way to measure your internet speed. It demonstrates how to use threading and GUI programming in Python to create a responsive application.
 
-##FAQs
+## FAQs
 **Q1: What libraries are required for this project?**
 A1: You need tkinter for the GUI and speedtest-cli for measuring internet speeds.
 
