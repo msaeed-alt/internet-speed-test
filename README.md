@@ -7,6 +7,7 @@
 - [Explanation of Internet Speed Test Source Code](#explanation-of-internet-speed-test-source-code)
 - [Conclusion](#conclusion)
 - [FAQs](#faqs)
+- [Support](#support)
 
 ## Introduction
 The Internet Speed Checker is a Python application that measures your internet speed by testing the download and upload speeds, as well as the ping. This tool uses the `speedtest` module to fetch these metrics and `tkinter` for a simple graphical user interface (GUI).
@@ -47,4 +48,5 @@ A4: The scaling_factor adjusts the range of the progress bar animation based on 
 
 **Feel free to contribute to this project by reporting issues or suggesting improvements!**
 
+## Suport
 # Interested in supporting me? [Patreon](patreon.com/msaeed)
