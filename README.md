@@ -46,3 +46,5 @@ A3: Threading is used to ensure the GUI remains responsive while performing the 
 A4: The scaling_factor adjusts the range of the progress bar animation based on the speed value.
 
 **Feel free to contribute to this project by reporting issues or suggesting improvements!**
+
+# Interested in supporting me? [Patreon](patreon.com/msaeed)
